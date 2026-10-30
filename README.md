@@ -1,6 +1,9 @@
 # API Sentinel
 ### API Reliability & Contract Testing Framework
 
+![API Sentinel CI](https://github.com/Sanvia-Ratry/API-Sentinel/actions/workflows/api-sentinel.yml/badge.svg)
+
+
 API Sentinel is a Playwright-based API testing framework designed to validate API behavior, enforce response contracts, and test reliability under controlled failure conditions.
 
 The project demonstrates API automation, reusable client design, JSON Schema validation, fault injection, diagnostics, and continuous integration using GitHub Actions.
